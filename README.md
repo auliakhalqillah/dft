@@ -27,6 +27,6 @@ PRESS,W.H.,(2007), NUMERICAL RECIPES,CAMBRIDGE
  and you can see in: TryMyDFT3.m
 ```
 # Contact
- This code was written by: Aulia Khalqillah, S.Si (2019)\n
- auliakhalqillah.mail@gmail.com
+ This code was written by: Aulia Khalqillah, S.Si (2019)
+ [auliakhalqillah.mail@gmail.com],
  Banda Aceh, Aceh, Indonesia

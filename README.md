@@ -24,8 +24,8 @@ PRESS,W.H.,(2007), NUMERICAL RECIPES,CAMBRIDGE
 # HOW TO USE THIS FUNCTION?
 ```
  [Af,freq,time] = dft(x,N,dt,opt)
- and you can see in: TryMyDFT3.m
 ```
+You can use TryMyDFT3.m file to exercise this function 
 # Contact
  This code was written by: Aulia Khalqillah, S.Si (2019)
  [auliakhalqillah.mail@gmail.com],

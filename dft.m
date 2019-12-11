@@ -54,12 +54,12 @@ freq = (0:fstep:fmax-fstep)/N;
 
 % DFT Process
 Af = zeros(1,N);
-for k = 1:N
-    Af(k) = complex(0,0);
-    for n = 1:N
-        Af(k) = Af(k) + x(n)*exp((1j*2*pi*k*n)/N);
+for n = 1:N
+    Af(n) = complex(0,0);
+    for k = 1:N
+        Af(n) = Af(n) + x(k)*exp((1j*2*pi*k*n)/N);
     end
-    Af(k) = Af(k) * dt;
+    Af(n) = Af(n) * dt;
 end
 
 option = opt;

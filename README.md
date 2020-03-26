@@ -22,6 +22,6 @@ You can use TryMyDFT3.m file to exercise this function
 # SOURCE
 PRESS,W.H.,(2007), NUMERICAL RECIPES,CAMBRIDGE
 # CONTACT
- This code was written by Aulia Khalqillah,S.Si.,M.Si(2020)<br>
+ This code was written by Aulia Khalqillah,S.Si.,M.Si.(2020)<br>
  Email:auliakhalqillah.mail@gmail.com<br>
  Banda Aceh,Aceh,Indonesia

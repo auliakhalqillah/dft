@@ -20,7 +20,7 @@ You can use TryMyDFT3.m file to exercise this function
  time = maximum time
 ``` 
 # SOURCE
-PRESS,W.H.,(2007), NUMERICAL RECIPES,CAMBRIDGE
+[Levent Sevgi,2007,Numerical fourier transforms: DFT and FFT](https://www.researchgate.net/publication/3305825_Numerical_fourier_transforms_DFT_and_FFT)
 # CONTACT
  This code was written by Aulia Khalqillah,S.Si.,M.Si.(2020)<br>
  Email:auliakhalqillah.mail@gmail.com<br>

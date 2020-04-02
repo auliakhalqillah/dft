@@ -5,7 +5,8 @@ function [Af,freq,time] = dft(x,N,dt,opt)
 % Using DFT we get information about what frequency is used in time domain signals.
 % 
 % # Source:
-% PRESS,W.H.,(2007), NUMERICAL RECIPES,CAMBRIDGE
+% Levent Sevgi,2007
+% https://www.researchgate.net/publication/3305825_Numerical_fourier_transforms_DFT_and_FFT
 % 
 % # INPUT PARAMETER
 %  x = time domain signals (in vector)
